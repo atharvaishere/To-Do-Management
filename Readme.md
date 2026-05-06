@@ -1,4 +1,9 @@
-# To-Do App with Google Login 🗒️
+# ✅ To-Do App with Google Login
+
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 
 ## Overview
 
@@ -39,8 +44,8 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/todo-app.git
-cd todo-app
+git clone https://github.com/atharvaishere/To-Do-Management.git
+cd To-Do-Management
 ```
 
 ### Install backend dependencies:
